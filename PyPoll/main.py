@@ -1,6 +1,5 @@
 import os
 import csv
-import statistics
 election_data = os.path.join('Resources', 'election_data.csv')
 
 # Set variables
